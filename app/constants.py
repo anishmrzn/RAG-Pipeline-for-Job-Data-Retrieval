@@ -1,0 +1,10 @@
+class DatasetColumns:
+    ID = "ID"
+    JOB_CATEGORY = "Job Category"
+    JOB_TITLE = "Job Title"
+    COMPANY_NAME = "Company Name"
+    PUBLICATION_DATE = "Publication Date"
+    JOB_LOCATION = "Job Location"
+    JOB_LEVEL = "Job Level"
+    TAGS = "Tags"
+    JOB_DESCRIPTION = "Job Description"
