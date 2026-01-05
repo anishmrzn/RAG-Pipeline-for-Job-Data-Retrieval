@@ -1,3 +1,4 @@
+# RAG-Based Job Search System
 Setup & Installation
 
 This project requires Python 3.9+ and runs locally using FastAPI.
